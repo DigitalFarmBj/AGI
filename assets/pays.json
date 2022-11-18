@@ -1,0 +1,220 @@
+[
+    {
+        "country": "Bénin",
+        "code": "+229"
+    },
+    {
+        "country": "Togo",
+        "code": "+228"
+    },
+    {
+        "country": "Côte d'ivoire",
+        "code": "+225"
+    },
+    {
+        "country": "Algerie",
+        "code": "+213"
+    },
+    {
+        "country": "Angola",
+        "code": "+224"
+    },
+    {
+        "country": "Bostwana",
+        "code": "+267"
+    },
+    {
+        "country": "Burundi",
+        "code": "+257"
+    },
+    {
+        "country": "Cameroun",
+        "code": "+237"
+    },
+    {
+        "country": "Cap-Vert",
+        "code": "+238"
+    },
+    {
+        "country": "Republique Centrafricaine",
+        "code": "+236"
+    },
+    {
+        "country": "Comores",
+        "code": "+269"
+    },
+    {
+        "country": "Congo",
+        "code": "+242"
+    },
+    {
+        "country": "Rep Démmcratique du congo",
+        "code": "+243"
+    },
+    {
+        "country": "Djibouti",
+        "code": "+253"
+    },
+    {
+        "country": "Egypte",
+        "code": "+20"
+    },
+    {
+        "country": "Erythrée",
+        "code": "+291"
+    },
+    {
+        "country": "Eswatini",
+        "code": "+268"
+    },
+    {
+        "country": "Ethiopie",
+        "code": "+251"
+    },
+    {
+        "country": "Gabon",
+        "code": "+241"
+    },
+    {
+        "country": "Gambie",
+        "code": "+220"
+    },
+    {
+        "country": "Ghana",
+        "code": "+233"
+    },
+    {
+        "country": "Guinée",
+        "code": "+224"
+    },
+    {
+        "country": "Guinée-Bisseau",
+        "code": "+245"
+    },
+    {
+        "country": "Guinée équatoriale",
+        "code": "+240"
+    },
+    {
+        "country": "Kenya",
+        "code": "+254"
+    },
+    {
+        "country": "Lesotho",
+        "code": "+266"
+    },
+    {
+        "country": "Liberia",
+        "code": "+231"
+    },
+    {
+        "country": "Afrique du sud",
+        "code": "+27"
+    },
+    {
+        "country": "Libye",
+        "code": "+218"
+    },
+    {
+        "country": "Madagascar",
+        "code": "+261"
+    },
+    {
+        "country": "Malawi",
+        "code": "+265"
+    },
+    {
+        "country": "Burkina Faso",
+        "code": "+226"
+    },
+    {
+        "country": "Mali",
+        "code": "+223"
+    },
+    {
+        "country": "Maroc",
+        "code": "+212"
+    },
+    {
+        "country": "Maurice",
+        "code": "+230"
+    },
+    {
+        "country": "Mauritanie",
+        "code": "+222"
+    },
+    {
+        "country": "Mozambique",
+        "code": "+258"
+    },
+    {
+        "country": "Namibie",
+        "code": "+264"
+    },
+    {
+        "country": "Niger",
+        "code": "+227"
+    },
+    {
+        "country": "Nigeria",
+        "code": "+234"
+    },
+    {
+        "country": "Ouganda",
+        "code": "+256"
+    },
+    {
+        "country": "Rwanda",
+        "code": "+250"
+    },
+    {
+        "country": "São Tomé",
+        "code": "+239"
+    },
+    {
+        "country": "Sénégal",
+        "code": "+221"
+    },
+    {
+        "country": "Seychelles",
+        "code": "+248"
+    },
+    {
+        "country": "Sierra Leone",
+        "code": "+232"
+    },
+    {
+        "country": "Somalie",
+        "code": "+252"
+    },
+    {
+        "country": "Soudan",
+        "code": "+249"
+    },
+    {
+        "country": "Soudan du sud",
+        "code": "+211"
+    },
+    {
+        "country": "Tanzanie",
+        "code": "+255"
+    },
+    {
+        "country": "Tchad",
+        "code": "+235"
+    },
+    {
+        "country": "Tunisie",
+        "code": "+216"
+    },
+    {
+        "country": "Zambie",
+        "code": "+260"
+    },
+    {
+        "country": "Zimbabwe",
+        "code": "+263"
+    }
+    
+    
+]

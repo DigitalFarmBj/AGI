@@ -1,0 +1,52 @@
+ [
+    { 
+        
+       
+        "cat":"Climat/Eau"
+         
+    },
+    { 
+        
+        "cat":"Production végétale"
+         
+    }, 
+   
+        { 
+        
+       
+        "cat":"Pêche/Aquaculture"
+         
+        },
+        { 
+        
+       
+        "cat":"Trans-agroalimentaire"
+         
+        },
+        { 
+        
+       
+        "cat":"Elevage"
+         
+        }
+        ,
+        { 
+        
+       
+        "cat":"Intrants/Equipements"
+         
+        }
+        ,
+       
+        
+        { 
+        
+       
+        "cat":"Autres"
+         
+        }
+        
+        
+        
+        
+]
